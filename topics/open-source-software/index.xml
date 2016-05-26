@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Software on akrehl | Projects &amp; Blog</title>
+    <link>//akrehl.com/topics/open-source-software/</link>
+    <description>Recent content in Open Source Software on akrehl | Projects &amp; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>(c) 2016 Adrian Krehl</copyright>
+    <lastBuildDate>Thu, 26 May 2016 11:34:53 +0200</lastBuildDate>
+    <atom:link href="//akrehl.com/topics/open-source-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>//akrehl.com/project/</link>
+      <pubDate>Thu, 26 May 2016 11:34:53 +0200</pubDate>
+      
+      <guid>//akrehl.com/project/</guid>
+      <description>&lt;p&gt;The speed of development and innovations on the web platform, at the time of writing, is enormous.
+There are a number of new things we all heard of. I am following some of them with detail.&lt;/p&gt;
+
+&lt;p&gt;I am not YET an active part of the open source community, but this will change!
+I already have some ideas on my todo list.&lt;/p&gt;
+
+&lt;p&gt;All my future projects will be listed here.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contributions</title>
+      <link>//akrehl.com/contribution/</link>
+      <pubDate>Thu, 26 May 2016 11:17:43 +0200</pubDate>
+      
+      <guid>//akrehl.com/contribution/</guid>
+      <description>&lt;p&gt;Currently I am very busy and have not started to give back to the wonderful open source community.
+I am actively watching some interesting projects I would like to contribute to in the near future.&lt;/p&gt;
+
+&lt;p&gt;All my valuable contributions in the future will be listed here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
