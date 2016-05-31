@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>//akrehl.com/</loc>
+    <loc>https://akrehl.com/</loc>
     <lastmod>2016-05-26T11:39:55+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//akrehl.com/2016/05/26/hello-world/</loc>
+    <loc>https://akrehl.com/2016/05/26/hello-world/</loc>
     <lastmod>2016-05-26T11:39:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//akrehl.com/project/</loc>
+    <loc>https://akrehl.com/project/</loc>
     <lastmod>2016-05-26T11:34:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//akrehl.com/contribution/</loc>
+    <loc>https://akrehl.com/contribution/</loc>
     <lastmod>2016-05-26T11:17:43+02:00</lastmod>
   </url>
   
   <url>
-    <loc>//akrehl.com/about/</loc>
+    <loc>https://akrehl.com/about/</loc>
     <lastmod>2016-05-20T17:08:52+02:00</lastmod>
   </url>
   

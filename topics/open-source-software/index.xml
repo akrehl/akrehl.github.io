@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Source Software on akrehl | Projects &amp; Blog</title>
-    <link>//akrehl.com/topics/open-source-software/</link>
+    <link>https://akrehl.com/topics/open-source-software/</link>
     <description>Recent content in Open Source Software on akrehl | Projects &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>(c) 2016 Adrian Krehl</copyright>
     <lastBuildDate>Thu, 26 May 2016 11:34:53 +0200</lastBuildDate>
-    <atom:link href="//akrehl.com/topics/open-source-software/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akrehl.com/topics/open-source-software/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Projects</title>
-      <link>//akrehl.com/project/</link>
+      <link>https://akrehl.com/project/</link>
       <pubDate>Thu, 26 May 2016 11:34:53 +0200</pubDate>
       
-      <guid>//akrehl.com/project/</guid>
+      <guid>https://akrehl.com/project/</guid>
       <description>&lt;p&gt;The speed of development and innovations on the web platform, at the time of writing, is enormous.
 There are a number of new things we all heard of. I am following some of them with detail.&lt;/p&gt;
 
@@ -28,10 +28,10 @@ I already have some ideas on my todo list.&lt;/p&gt;
     
     <item>
       <title>Contributions</title>
-      <link>//akrehl.com/contribution/</link>
+      <link>https://akrehl.com/contribution/</link>
       <pubDate>Thu, 26 May 2016 11:17:43 +0200</pubDate>
       
-      <guid>//akrehl.com/contribution/</guid>
+      <guid>https://akrehl.com/contribution/</guid>
       <description>&lt;p&gt;Currently I am very busy and have not started to give back to the wonderful open source community.
 I am actively watching some interesting projects I would like to contribute to in the near future.&lt;/p&gt;
 

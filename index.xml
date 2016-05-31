@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>akrehl | Projects &amp; Blog</title>
-    <link>//akrehl.com/</link>
+    <link>https://akrehl.com/</link>
     <description>Recent content on akrehl | Projects &amp; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>(c) 2016 Adrian Krehl</copyright>
     <lastBuildDate>Thu, 26 May 2016 11:39:55 +0200</lastBuildDate>
-    <atom:link href="//akrehl.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akrehl.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hello World</title>
-      <link>//akrehl.com/2016/05/26/hello-world/</link>
+      <link>https://akrehl.com/2016/05/26/hello-world/</link>
       <pubDate>Thu, 26 May 2016 11:39:55 +0200</pubDate>
       
-      <guid>//akrehl.com/2016/05/26/hello-world/</guid>
+      <guid>https://akrehl.com/2016/05/26/hello-world/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;
 
 &lt;p&gt;I hope you will find something valuable for you on my site.&lt;/p&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Projects</title>
-      <link>//akrehl.com/project/</link>
+      <link>https://akrehl.com/project/</link>
       <pubDate>Thu, 26 May 2016 11:34:53 +0200</pubDate>
       
-      <guid>//akrehl.com/project/</guid>
+      <guid>https://akrehl.com/project/</guid>
       <description>&lt;p&gt;The speed of development and innovations on the web platform, at the time of writing, is enormous.
 There are a number of new things we all heard of. I am following some of them with detail.&lt;/p&gt;
 
@@ -42,10 +42,10 @@ I already have some ideas on my todo list.&lt;/p&gt;
     
     <item>
       <title>Contributions</title>
-      <link>//akrehl.com/contribution/</link>
+      <link>https://akrehl.com/contribution/</link>
       <pubDate>Thu, 26 May 2016 11:17:43 +0200</pubDate>
       
-      <guid>//akrehl.com/contribution/</guid>
+      <guid>https://akrehl.com/contribution/</guid>
       <description>&lt;p&gt;Currently I am very busy and have not started to give back to the wonderful open source community.
 I am actively watching some interesting projects I would like to contribute to in the near future.&lt;/p&gt;
 
@@ -55,22 +55,22 @@ I am actively watching some interesting projects I would like to contribute to i
     
     <item>
       <title>About Me</title>
-      <link>//akrehl.com/about/</link>
+      <link>https://akrehl.com/about/</link>
       <pubDate>Fri, 20 May 2016 17:08:52 +0200</pubDate>
       
-      <guid>//akrehl.com/about/</guid>
+      <guid>https://akrehl.com/about/</guid>
       <description>
 
 &lt;p&gt;I&amp;rsquo;m Adrian Krehl and currently a student in applied computer science at the Hochschule Hannover, Germany.
 Additionally I am working in a small software company. I love technology and coding in a variety of languages both at
 work and in my spare time. When I’m not coding, I try to spend time with my family and friends.&lt;/p&gt;
 
-&lt;h3 id=&#34;what-this-site-is-about-and-what-not&#34;&gt;What this site is about and what not&lt;/h3&gt;
+&lt;h3 id=&#34;what-this-site-is-about-and-what-not:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;What this site is about and what not&lt;/h3&gt;
 
 &lt;p&gt;I did make this site for my own purpose. Mainly for giving me a good platform for testing and sharing new ideas and code
 with the community. I do not want to label the site to any specific topic or programming language. I am just to
 interested in all of them :). I consider myself a beginner in software engineering, so please do not copy and
-paste any code without a closer look. Take a look at my &lt;a href=&#34;//akrehl.com/license.txt&#34;&gt;license&lt;/a&gt;.&lt;/p&gt;
+paste any code without a closer look. Take a look at my &lt;a href=&#34;https://akrehl.com/license.txt&#34;&gt;license&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As you may already noticed, I am not a native english speaker. Please be kind, I give my very best!
 Opinions are my own and not the views of my employer.&lt;/p&gt;
